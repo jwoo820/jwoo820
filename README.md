@@ -19,7 +19,7 @@
  -->
 <p align='center'>
  <a href="mailto:pjwoo820@gmail.com">
- <img alt="Jungwoo Park GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jwoo820&theme=radical&show_icons=true" />
+ <img alt="Jungwoo Park GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jwoo820&theme=radical&show_icons=true" />
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jwoo820&langs_count=10&layout=compact&theme=dark"/></a>
   </p>
 
